@@ -147,11 +147,11 @@
 <div align="center">
 
 <a href="https://github.com/Biki989">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Biki989&show_icons=true&hide_border=false&border_color=101010&bg_color=101010&title_color=ff4f3e&text_color=fbfbf6&icon_color=b9ff45&ring_color=ff4f3e" alt="Biki's GitHub Stats"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Biki989&show_icons=true&hide_border=false&border_color=101010&bg_color=101010&title_color=ff4f3e&text_color=fbfbf6&icon_color=b9ff45&ring_color=ff4f3e" alt="Biki's GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://github.com/Biki989">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biki989&layout=compact&hide_border=false&border_color=101010&bg_color=101010&title_color=15c8ff&text_color=fbfbf6" alt="Top Languages"/>
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Biki989&layout=compact&hide_border=false&border_color=101010&bg_color=101010&title_color=15c8ff&text_color=fbfbf6" alt="Top Languages"/>
 </a>
 
 </div>
@@ -165,7 +165,7 @@
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Biki989&theme=dark&border=333333&background=101010&stroke=665f57&ring=FF4F3E&fire=FFD84D&currStreakLabel=FFD84D&sideLabels=B9FF45&currStreakNum=FBFBF6&sideNums=FBFBF6&dates=665F57" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Biki989&theme=dark&border=333333&background=101010&stroke=665f57&ring=FF4F3E&fire=FFD84D&currStreakLabel=FFD84D&sideLabels=B9FF45&currStreakNum=FBFBF6&sideNums=FBFBF6&dates=665F57" alt="GitHub Streak"/>
 </a>
 
 </div>
