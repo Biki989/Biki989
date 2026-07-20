@@ -31,17 +31,6 @@
 <tr>
 <td width="100%" valign="top">
 
-### 🟥 Portfolio / Machine Learning & Data Science
-
-> *I turn messy data into deployed models and inference APIs.*
-> *Based in Assam, India — open to ML engineering and data science roles, remote or on-site.*
-
-<br/>
-
-<div align="center">
-
-|  **2** Projects Shipped  |  **6+ mo** ML Experience  |  **15+** Tools Used  |
-|:---:|:---:|:---:|
 
 </div>
 
@@ -62,177 +51,6 @@
 [![Resume](https://img.shields.io/badge/RESUME-8b5cf6?style=for-the-badge&logo=adobeacrobatreader&logoColor=fbfbf6)](https://bikikalita.com/Biki-1.2.pdf)
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  SELECTED WORK · Featured Projects                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101010&height=4&section=header" width="100%"/>
-
-<table>
-<tr><td>
-
-## 🟥 Selected Work
-
-*Models built for the moment after the notebook.*
-
-</td></tr>
-</table>
-
-<!-- Project 01 -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔴 01 · Freight Invoice Flagging
-**Classification / 2026**
-
-An XGBoost model that prioritizes suspicious freight invoices before payment, reducing manual review by surfacing likely-bad invoices first. Deployed as a FastAPI endpoint.
-
-| Focus | Stack | Output |
-|:---:|:---:|:---:|
-| Invoice-risk classification | XGBoost, Pandas, FastAPI | Deployed inference API |
-
-![XGBoost](https://img.shields.io/badge/XGBoost-b9ff45?style=flat-square&logoColor=101010)
-![Pandas](https://img.shields.io/badge/Pandas-ffd84d?style=flat-square&logoColor=101010)
-![FastAPI](https://img.shields.io/badge/FastAPI-15c8ff?style=flat-square&logoColor=101010)
-
-[![Live Demo](https://img.shields.io/badge/▸_LIVE_DEMO-ff4f3e?style=for-the-badge&logoColor=101010)](https://invoice-flagging.vercel.app/)
-[![GitHub](https://img.shields.io/badge/▸_CODE-101010?style=for-the-badge&logo=github&logoColor=fbfbf6)](https://github.com/Biki989)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 02 · Fire Weather Index Prediction
-**Regression / 2026**
-
-A linear regression model that predicts fire-weather index from temperature, humidity, rainfall, and wind conditions, trained on Algerian forest-fire data.
-
-| Focus | Stack | Output |
-|:---:|:---:|:---:|
-| Weather-risk regression | Scikit-learn, Flask, EDA | Interactive prediction app |
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-b9ff45?style=flat-square&logoColor=101010)
-![Flask](https://img.shields.io/badge/Flask-ffd84d?style=flat-square&logoColor=101010)
-![EDA](https://img.shields.io/badge/EDA-15c8ff?style=flat-square&logoColor=101010)
-
-[![Live Demo](https://img.shields.io/badge/▸_LIVE_DEMO-ff4f3e?style=for-the-badge&logoColor=101010)](https://fwi-prediction-seven.vercel.app/)
-[![GitHub](https://img.shields.io/badge/▸_CODE-101010?style=for-the-badge&logo=github&logoColor=fbfbf6)](https://github.com/Biki989)
-
-</td>
-</tr>
-</table>
-
-<!-- Project 03 & 04 -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟣 03 · Sentinel AI
-**ML Pipeline / 2025**
-
-Real-time fraud-detection pipeline using XGBoost and Kafka stream processing.
-
-| Focus | Stack | System |
-|:---:|:---:|:---:|
-| Streaming fraud detection | XGBoost, Kafka | Real-time pipeline |
-
-![XGBoost](https://img.shields.io/badge/XGBoost-b9ff45?style=flat-square&logoColor=101010)
-![Kafka](https://img.shields.io/badge/Kafka-ffd84d?style=flat-square&logoColor=101010)
-![Streaming](https://img.shields.io/badge/Streaming-15c8ff?style=flat-square&logoColor=101010)
-
-</td>
-<td width="50%" valign="top">
-
-### 🟡 04 · OmniRAG
-**AI Systems / 2024**
-
-Enterprise-scale retrieval-augmented generation system built with LangChain and Pinecone.
-
-| Focus | Stack | System |
-|:---:|:---:|:---:|
-| Enterprise knowledge retrieval | LangChain, Pinecone | RAG architecture |
-
-![LangChain](https://img.shields.io/badge/LangChain-b9ff45?style=flat-square&logoColor=101010)
-![Pinecone](https://img.shields.io/badge/Pinecone-ffd84d?style=flat-square&logoColor=101010)
-![RAG](https://img.shields.io/badge/RAG-15c8ff?style=flat-square&logoColor=101010)
-
-</td>
-</tr>
-</table>
-
-<!-- Project 05 -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 05 · Visionary
-**Computer Vision / 2023**
-
-Real-time object tracking and segmentation using YOLOv8 and OpenCV, deployed on edge devices.
-
-| Focus | Stack | System |
-|:---:|:---:|:---:|
-| Object tracking & segmentation | YOLOv8, OpenCV | Edge-device deployment |
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-b9ff45?style=flat-square&logoColor=101010)
-![OpenCV](https://img.shields.io/badge/OpenCV-ffd84d?style=flat-square&logoColor=101010)
-![Edge AI](https://img.shields.io/badge/Edge_AI-15c8ff?style=flat-square&logoColor=101010)
-
-</td>
-<td width="50%">
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  HOW I WORK · Build Philosophy                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101010&height=4&section=header" width="100%"/>
-
-<table>
-<tr><td>
-
-## ⬛ How I Work
-
-*The model is only useful when the whole system holds up.*
-
-</td></tr>
-</table>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### Reality
-Most ML projects stop at a notebook. A result that runs only on one laptop is not yet a usable product.
-
-</td>
-<td align="center" width="25%">
-
-### Method
-I clean data, address class imbalance with SMOTE where appropriate, select meaningful features, and validate honestly — no vanity metrics.
-
-</td>
-<td align="center" width="25%">
-
-### Delivery
-Then I wrap the model in a FastAPI or Flask endpoint, containerize it with Docker, and prepare it for deployment.
-
-</td>
-<td align="center" width="25%">
-
-### Goal
-An inference API someone can actually call: reliable, explainable, and ready to create value beyond a Jupyter cell.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -313,63 +131,6 @@ An inference API someone can actually call: reliable, explainable, and ready to 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--  EXPERIENCE · Timeline                                -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101010&height=4&section=header" width="100%"/>
-
-<table>
-<tr><td>
-
-## 🟦 Experience
-
-*Production-minded work, from model design to impact.*
-
-</td></tr>
-</table>
-
-<table>
-<tr>
-<td width="8%" align="center">
-
-![01](https://img.shields.io/badge/01-ff4f3e?style=for-the-badge&logoColor=101010)
-
-</td>
-<td width="18%">
-
-**2025 — Present**
-
-</td>
-<td>
-
-**ML Engineer at Tech Innovators Inc.**
-Architecting fraud-detection systems processing 100K+ daily transactions and reducing false positives by 30% through advanced ensemble methods.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-![02](https://img.shields.io/badge/02-15c8ff?style=for-the-badge&logoColor=101010)
-
-</td>
-<td>
-
-**2024 — 2025**
-
-</td>
-<td>
-
-**Data Scientist at AI Dynamics**
-Built and deployed recommendation engines using collaborative filtering and neural networks, increasing user engagement by 15%.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
 <!--  GITHUB STATS · Metrics & Activity                    -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
@@ -385,9 +146,13 @@ Built and deployed recommendation engines using collaborative filtering and neur
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Biki989&show_icons=true&hide_border=false&border_color=101010&bg_color=fbfbf6&title_color=ff4f3e&text_color=101010&icon_color=b9ff45&ring_color=ff4f3e" alt="Biki's GitHub Stats"/>
+<a href="https://github.com/Biki989">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Biki989&show_icons=true&hide_border=false&border_color=101010&bg_color=101010&title_color=ff4f3e&text_color=fbfbf6&icon_color=b9ff45&ring_color=ff4f3e" alt="Biki's GitHub Stats"/>
+</a>
 &nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biki989&layout=compact&hide_border=false&border_color=101010&bg_color=fbfbf6&title_color=15c8ff&text_color=101010" alt="Top Languages"/>
+<a href="https://github.com/Biki989">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biki989&layout=compact&hide_border=false&border_color=101010&bg_color=101010&title_color=15c8ff&text_color=fbfbf6" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -399,7 +164,9 @@ Built and deployed recommendation engines using collaborative filtering and neur
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Biki989&theme=dark&border=101010&background=101010&stroke=665f57&ring=FF4F3E&fire=FFD84D&currStreakLabel=FFD84D&sideLabels=B9FF45&currStreakNum=FBFBF6&sideNums=FBFBF6&dates=665F57)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Biki989&theme=dark&border=333333&background=101010&stroke=665f57&ring=FF4F3E&fire=FFD84D&currStreakLabel=FFD84D&sideLabels=B9FF45&currStreakNum=FBFBF6&sideNums=FBFBF6&dates=665F57" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -411,7 +178,9 @@ Built and deployed recommendation engines using collaborative filtering and neur
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Biki989&theme=flat&no-bg=false&no-frame=false&column=7&margin-w=6&margin-h=6&title_color=ff4f3e&icon_color=ffd84d&text_color=101010&bg_color=fbfbf6)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Biki989&theme=darkhub&no-bg=true&no-frame=false&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
+</a>
 
 </div>
 
@@ -423,7 +192,9 @@ Built and deployed recommendation engines using collaborative filtering and neur
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Biki989&bg_color=101010&color=fbfbf6&line=ff4f3e&point=ffd84d&area_color=b9ff45&area=true&hide_border=false&custom_title=Biki's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biki989&bg_color=101010&color=fbfbf6&line=ff4f3e&point=ffd84d&area_color=b9ff45&area=true&hide_border=false&custom_title=Biki's%20Contribution%20Graph" alt="Activity Graph"/>
+</a>
 
 </div>
 
@@ -436,62 +207,6 @@ Built and deployed recommendation engines using collaborative filtering and neur
 ![Profile Views](https://komarev.com/ghpvc/?username=Biki989&color=ff4f3e&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  OPERATING PRINCIPLES                                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=101010&height=4&section=header" width="100%"/>
-
-<table>
-<tr><td>
-
-## ⬛ Operating Principles
-
-*Practical ML over impressive-looking notebooks.*
-
-</td></tr>
-</table>
-
-<div align="center">
-
-> ### *"Ship real ML: trained carefully, validated honestly, and available through an API."*
-> — Biki Kalita's working standard
-
-</div>
-
-- 🟥 Prioritize data quality and useful features before model complexity.
-- 🟨 Handle class imbalance deliberately instead of trusting misleading accuracy.
-- 🟩 Design deployment as part of the project, not an afterthought.
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--  WHAT I BUILD                                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🟡 Prediction Systems
-**Regression & Classification**
-
-Clear baselines, dependable features, and models matched to the decision they need to support.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔵 Delivery Systems
-**Inference APIs**
-
-FastAPI and Flask services that move a validated model from experiment into a usable product surface.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -516,9 +231,8 @@ Looking for ML engineering or data science roles — remote or on-site in India.
 <div align="center">
 
 [![Email](https://img.shields.io/badge/bikikalitaxtra@gmail.com-b9ff45?style=for-the-badge&logo=gmail&logoColor=101010)](mailto:bikikalitaxtra@gmail.com)&nbsp;
-[![Email 2](https://img.shields.io/badge/hello@bikikalita.com-15c8ff?style=for-the-badge&logo=gmail&logoColor=101010)](mailto:hello@bikikalita.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b9ff45?style=for-the-badge&logo=linkedin&logoColor=101010)](https://www.linkedin.com/in/biki-kalita-1b9807394)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-15c8ff?style=for-the-badge&logo=github&logoColor=101010)](https://github.com/Biki989)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-15c8ff?style=for-the-badge&logo=linkedin&logoColor=101010)](https://www.linkedin.com/in/biki-kalita-1b9807394)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-b9ff45?style=for-the-badge&logo=github&logoColor=101010)](https://github.com/Biki989)
 
 </div>
 
