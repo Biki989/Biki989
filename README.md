@@ -9,7 +9,7 @@
 
 <!-- ───────── HERO BANNER ───────── -->
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=101010&height=160&section=header&text=BIKI%20KALITA&fontColor=fbfbf6&fontSize=60&fontAlign=50&fontAlignY=50&desc=Machine%20Learning%20Engineer%20%26%20Data%20Scientist&descColor=ffd84d&descSize=18&descAlign=50&descAlignY=78)
+![Biki Kalita - Machine Learning Engineer & Data Scientist](./banner.png)
 
 <!-- ───────── ANIMATED TAGLINE ───────── -->
 
