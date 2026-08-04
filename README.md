@@ -1,117 +1,114 @@
-# GitHub Profile README
-
-> **Note:** Replace `banner.png` with your own banner image in the
-> repository root.
-
-```{=html}
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
-```
-```{=html}
-<!--  B I K I   K A L I T A  ·  GitHub Profile README                       -->
-```
-```{=html}
+<!--  B I K I   K A L I T A  ·  GitHub Profile README                           -->
+<!--  Design System: Glassmorphism & Neon                                       -->
+<!--  Palette: #00FFCC (Neon Cyan) · #FF00CC (Neon Magenta) · #7000FF (Violet)  -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
-```
-::: {align="center"}
-![Biki Kalita - Machine Learning Engineer & AI Researcher](./banner.png)
 
-`<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=24&duration=3500&pause=1200&color=FF4F3E&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Building+machine+learning+systems+that+ship.;Deep+Learning+•+Neuro-Symbolic+AI+•+Open+Source" />`{=html}
+<div align="center">
 
-`<br>`{=html}
+<!-- ───────── HERO BANNER ───────── -->
+<a href="https://bikikalita.com">
+  <img src="./banner.png" alt="Biki Kalita - Machine Learning Engineer & Data Scientist" width="100%" />
+</a>
 
-![strip](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20,27&height=6&section=header)
-:::
+<!-- ───────── GLOWING ACCENT STRIP ───────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00FFCC,7000FF,FF00CC&height=6&section=header" width="100%"/>
 
-## 👋 About Me
+<!-- ───────── ANIMATED NEON TAGLINE ───────── -->
+<br/><br/>
+<a href="https://bikikalita.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&width=700&height=80&lines=>>+Initializing+Neural+Networks...;>>+Building+Scalable+Machine+Learning+Systems.;>>+Deploying+Inference+APIs+to+Production." alt="Typing SVG" />
+</a>
 
-I'm **Biki Kalita**, a Computer Science student passionate about
-**Machine Learning**, **Deep Learning**, **NLP**, **Computer Vision**,
-and **Neuro-Symbolic AI**.
+<br/><br/>
 
--   🔬 Researching intelligent AI systems
--   🚀 Building end-to-end ML applications
--   📚 Exploring LLMs & Small Language Models
--   🌱 Open Source Contributor
+<!-- ───────── NEON SOCIALS ───────── -->
+<a href="mailto:bikikalitaxtra@gmail.com"><img src="https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=FF00CC" /></a>
+<a href="https://www.linkedin.com/in/biki-kalita-1b9807394"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=00FFCC" /></a>
+<a href="https://github.com/Biki989"><img src="https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=FF00CC" /></a>
+<a href="https://bikikalita.com"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=googlechrome&logoColor=00FFCC" /></a>
+<a href="https://bikikalita.com/Biki-1.2.pdf"><img src="https://img.shields.io/badge/Resume-09090b?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF00CC" /></a>
 
-------------------------------------------------------------------------
+</div>
 
-## 🌐 Connect
+<br/><br/>
 
-::: {align="center"}
-[![Email](https://img.shields.io/badge/EMAIL-ff4f3e?style=for-the-badge&logo=gmail&logoColor=101010)](mailto:bikikalitaxtra@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-15c8ff?style=for-the-badge&logo=linkedin&logoColor=101010)](https://www.linkedin.com/in/biki-kalita-1b9807394)
-[![GitHub](https://img.shields.io/badge/GITHUB-b9ff45?style=for-the-badge&logo=github&logoColor=101010)](https://github.com/Biki989)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ffd84d?style=for-the-badge&logo=googlechrome&logoColor=101010)](https://bikikalita.com)
-:::
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  TECH STACK · Glassmorphism Grids                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-------------------------------------------------------------------------
+<h2 align="center">🛸 Tech Stack</h2>
 
-# 🟩 Tech Stack
+<div align="center">
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,kubernetes,aws,gcp&theme=dark" />
+  </p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,bash,js,html,postgresql,mysql&theme=dark" />
+  </p>
+</div>
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,pytorch,tensorflow,opencv,fastapi,flask,docker,mysql,mongodb,git,linux,vscode"/>`{=html}
-```{=html}
-</p>
-```
+<br/><br/>
 
-------------------------------------------------------------------------
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  FEATURED ML PROJECTS (Replaced Streaks)                -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-# 📊 GitHub Analytics
+<h2 align="center">🌌 Featured Work</h2>
 
-::: {align="center"}
-`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Biki989&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>`{=html}
+<div align="center">
+  <a href="https://github.com/Biki989">
+    <!-- Using 00000000 for a fully transparent glassmorphism effect -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Biki989&repo=YOUR_PROJECT_REPO_1&theme=tokyonight&bg_color=00000000&hide_border=false&border_color=00FFCC&border_radius=10&title_color=00FFCC&text_color=ffffff&icon_color=FF00CC" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/Biki989">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Biki989&repo=YOUR_PROJECT_REPO_2&theme=tokyonight&bg_color=00000000&hide_border=false&border_color=FF00CC&border_radius=10&title_color=FF00CC&text_color=ffffff&icon_color=00FFCC" alt="Project 2"/>
+  </a>
+</div>
 
-`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biki989&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-:::
+<br/><br/>
 
-------------------------------------------------------------------------
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  GITHUB STATS · Neon Metrics                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-# 🔥 GitHub Streak
+<h2 align="center">📊 Analytics & Metrics</h2>
 
-::: {align="center"}
-`<img width="92%" src="https://streak-stats.demolab.com?user=Biki989&theme=transparent&hide_border=true&background=00000000&stroke=FF4F3E&ring=15C8FF&fire=FFD84D&currStreakNum=FBFBF6&currStreakLabel=15C8FF&sideNums=FBFBF6&sideLabels=B9FF45&dates=888888"/>`{=html}
-:::
+<div align="center">
+  <a href="https://github.com/Biki989">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Biki989&show_icons=true&hide_border=false&border_color=7000FF&bg_color=00000000&title_color=00FFCC&text_color=ffffff&icon_color=FF00CC&ring_color=00FFCC" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Biki989">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Biki989&layout=compact&hide_border=false&border_color=7000FF&bg_color=00000000&title_color=FF00CC&text_color=ffffff" alt="Top Languages"/>
+  </a>
+</div>
 
-------------------------------------------------------------------------
+<br/>
 
-# 🏆 GitHub Trophies
+<!-- ───────── ACTIVITY GRAPH ───────── -->
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biki989&bg_color=00000000&color=ffffff&line=00FFCC&point=FF00CC&area_color=7000FF&area=true&hide_border=false&border_color=7000FF&custom_title=Contributions" alt="Activity Graph"/>
+  </a>
+</div>
 
-::: {align="center"}
-`<img src="https://github-profile-trophy.vercel.app/?username=Biki989&theme=algolia&no-frame=true&row=2&column=4"/>`{=html}
-:::
+<br/><br/>
 
-------------------------------------------------------------------------
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  OPEN TO WORK & FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-# 📈 Contribution Graph
+<div align="center">
 
-::: {align="center"}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Biki989&bg_color=101010&color=fbfbf6&line=ff4f3e&point=ffd84d&area=true&area_color=b9ff45&hide_border=true"/>`{=html}
-:::
+## 🟩 Open to Work
+*Ready to put useful models into the world.*
 
-------------------------------------------------------------------------
+Looking for **ML Engineering** or **Data Science** roles — remote or on-site in India.
 
-# 🐍 Contribution Snake
+<br/>
 
-::: {align="center"}
-`<img src="https://raw.githubusercontent.com/Biki989/Biki989/output/github-contribution-grid-snake-dark.svg"/>`{=html}
-:::
+![Profile Views](https://komarev.com/ghpvc/?username=Biki989&color=00FFCC&style=flat-square&label=PROFILE+VIEWS)
 
-------------------------------------------------------------------------
+</div>
 
-::: {align="center"}
-`<img src="https://komarev.com/ghpvc/?username=Biki989&style=for-the-badge&color=ff4f3e"/>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-## 📫 Open to Work
-
-Machine Learning • AI Research • Deep Learning • Backend AI Systems
-
-::: {align="center"}
-⭐ If you like my work, consider starring my repositories!
-:::
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,20,27&height=8&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFCC,7000FF,FF00CC&height=100&section=footer" width="100%"/>
