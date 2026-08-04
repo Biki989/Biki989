@@ -1,230 +1,80 @@
-<div align="center">
-
-# Hi there, I'm Biki Kalita 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Researcher;Deep+Learning+Enthusiast;Neuro-Symbolic+AI+Explorer;Open+Source+Contributor" />
-
-<img src="https://komarev.com/ghpvc/?username=Biki989&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-```python
-class Biki():
-
-    def __init__(self):
-        self.name = "Biki Kalita"
-        self.role = "AI & ML Engineer"
-        self.location = "Assam, India"
-
-        self.languages = [
-            "Python",
-            "C++",
-            "Java",
-            "JavaScript"
-        ]
-
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "NLP",
-            "Neuro Symbolic AI",
-            "MLOps"
-        ]
-
-        self.current_goal = "Building AI systems that solve real-world problems"
-
-me = Biki()
-```
-
----
-
-# 🚀 Tech Stack
-
-### Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css,sql"/>
-
-</p>
-
-### AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
-
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biki989&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biki989&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Biki989&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Biki989&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Biki989&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Biki989/Biki989/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📌 Current Focus
-
-- 🧠 Neuro-Symbolic AI
-
-- 🤖 Building Small Language Models
-
-- 📚 Deep Learning Research
-
-- 📄 Writing Research Papers
-
-- ⚡ Open Source Contributions
-
----
-
-# 📂 Featured Projects
-
-### 🌱 Graph Greener
-Generate realistic GitHub contribution graphs automatically.
-
----
-
-### 🧠 Neuro-Symbolic SLM
-Research project combining symbolic reasoning with neural language models.
-
----
-
-### 🍽️ AI Food Nutrition Detector
-Computer Vision + NLP powered nutrition and allergy detection.
-
----
-
-### 🚛 Procurement Fraud Detection
-Machine Learning powered invoice fraud detection and freight prediction.
-
----
-
-# 🌍 Connect with Me
+<h1 align="center">Biki989</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;CSE+Student+%40+BVEC+(ASTU);Building+Neural+Nets+from+Scratch;Open+to+AI%2FML+%26+Data+Science+Internships" alt="Typing SVG" />
+</p>
 
-<a href="https://github.com/Biki989">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Biki989&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Biki989?label=Followers&style=flat&color=7AA2F7" alt="Followers" />
 </p>
 
 ---
 
-# 💻 Coding Activity
+### About Me
 
-<!--START_SECTION:waka-->
-Coming Soon...
-<!--END_SECTION:waka-->
-
----
-
-# 🎵 Spotify
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID)
+- 🎓 CSE Engineering student at **BVEC**, under **ASTU**, Assam — graduating 2028
+- 🧠 AI/ML developer — medical imaging, NLP/SLM research, applied CV
+- 🛠️ Former CTO at an early-stage startup
+- 📍 Based in Guwahati, Assam, India
+- 🔭 Currently building neuro-symbolic small language models and medical image segmentation pipelines
+- 💻 Training on a "potato" RTX 3050 laptop GPU and making it work
+- 📫 Open to **AI/ML & Data Science internships**
 
 ---
 
-# ✨ Random Dev Quote
+### Tech Stack
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,pytorch,tensorflow,numpy,react,nodejs,mysql,html,css,js,git,latex&theme=dark" alt="Tech stack" />
+</p>
 
 ---
 
-<div align="center">
+### GitHub Stats
 
-### ⚡ "Building intelligent systems that make an impact."
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Biki989&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biki989&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=120&section=footer"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Biki989&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-</div>
+---
+
+### Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biki989&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Biki989&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
+</p>
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|---|---|
+| 🧬 **NeuroSymLM** | Neuro-symbolic small language model — GPT-style SLM with dynamic symbolic tool routing (logic, math, graph, planner engines) |
+| 🧫 **HER2 Segmentation** | Deep learning pipeline for HER2 IHC membrane segmentation & classification |
+| 🧠 **LGG MRI Segmentation** | Brain MRI (glioma) FLAIR tumor segmentation on the Kaggle mateuszbuda dataset |
+| 🩻 **Medical Imaging Pipeline** | Multi-backbone ensemble deep learning pipeline for DICOM image analysis |
+| 🥗 **FoodScan** | AI-powered food nutrition & allergy detector — image recognition + fuzzy text matching + allergen engine |
+| 👕 **DeViCo Dashboard** | Business management dashboard for a clothing brand |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biki989&theme=tokyo-night&hide_border=true&bg_color=00000000&custom_title=Recent%20Activity" alt="Recent Activity" />
+</p>
+
+<p align="center"><i>⭐️ Feel free to explore my repos and reach out for collaborations or internship opportunities.</i></p>
